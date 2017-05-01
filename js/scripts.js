@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["GWIS", "Since 2017","You can train yourself if with us.", "You can enjoy golf with us.","Welcome! GWIS"],    /* You can change the home section typing text from
+            strings: ["GWIS", "Since 2017","You can train yourself.", "You can enjoy the golf.", "With GWIS","Welcome! GWIS"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
